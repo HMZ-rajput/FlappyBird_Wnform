@@ -1,0 +1,28 @@
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game\Clumsy-Flora\Clumsy-Flora\bin\Debug\Clumsy-Flora.exe.config
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game\Clumsy-Flora\Clumsy-Flora\bin\Debug\Clumsy-Flora.exe
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game\Clumsy-Flora\Clumsy-Flora\bin\Debug\Clumsy-Flora.pdb
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game\Clumsy-Flora\Clumsy-Flora\obj\Debug\Clumsy-Flora.csproj.AssemblyReference.cache
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game\Clumsy-Flora\Clumsy-Flora\obj\Debug\Clumsy-Flora.csproj.SuggestedBindingRedirects.cache
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game\Clumsy-Flora\Clumsy-Flora\obj\Debug\Clumsy_Flora.Properties.Resources.resources
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game\Clumsy-Flora\Clumsy-Flora\obj\Debug\Clumsy-Flora.csproj.GenerateResource.cache
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game\Clumsy-Flora\Clumsy-Flora\obj\Debug\Clumsy-Flora.csproj.CoreCompileInputs.cache
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game\Clumsy-Flora\Clumsy-Flora\obj\Debug\Clumsy-Flora.exe
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game\Clumsy-Flora\Clumsy-Flora\obj\Debug\Clumsy-Flora.pdb
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game - Copy\Clumsy-Flora\Clumsy-Flora\bin\Debug\Clumsy-Flora.exe.config
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game - Copy\Clumsy-Flora\Clumsy-Flora\bin\Debug\Clumsy-Flora.exe
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game - Copy\Clumsy-Flora\Clumsy-Flora\bin\Debug\Clumsy-Flora.pdb
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game - Copy\Clumsy-Flora\Clumsy-Flora\obj\Debug\Clumsy-Flora.csproj.AssemblyReference.cache
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game - Copy\Clumsy-Flora\Clumsy-Flora\obj\Debug\Clumsy-Flora.csproj.SuggestedBindingRedirects.cache
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game - Copy\Clumsy-Flora\Clumsy-Flora\obj\Debug\Clumsy_Flora.Game.resources
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game - Copy\Clumsy-Flora\Clumsy-Flora\obj\Debug\Clumsy_Flora.GameMenu.resources
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game - Copy\Clumsy-Flora\Clumsy-Flora\obj\Debug\Clumsy_Flora.Properties.Resources.resources
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game - Copy\Clumsy-Flora\Clumsy-Flora\obj\Debug\Clumsy-Flora.csproj.GenerateResource.cache
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game - Copy\Clumsy-Flora\Clumsy-Flora\obj\Debug\Clumsy-Flora.csproj.CoreCompileInputs.cache
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game - Copy\Clumsy-Flora\Clumsy-Flora\obj\Debug\Clumsy-Flora.exe
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game - Copy\Clumsy-Flora\Clumsy-Flora\obj\Debug\Clumsy-Flora.pdb
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game - Copy\Clumsy-Flora\Clumsy-Flora\obj\Debug\Clumsy_Flora.GameHelp.resources
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game\Clumsy-Flora\Clumsy-Flora\obj\Debug\Clumsy_Flora.Game.resources
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game\Clumsy-Flora\Clumsy-Flora\obj\Debug\Clumsy_Flora.GameHelp.resources
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game\Clumsy-Flora\Clumsy-Flora\obj\Debug\Clumsy_Flora.GameMenu.resources
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game - Copy\Clumsy-Flora\Clumsy-Flora\obj\Debug\Clumsy_Flora.GameOver.resources
+D:\Documents\University\Computer Programming\Visual Studio\Project\Game\Clumsy-Flora\Clumsy-Flora\obj\Debug\Clumsy_Flora.GameOver.resources
